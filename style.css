@@ -1,0 +1,69 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+
+}
+
+.header{
+    width: 100%;
+    padding: 10px 30px;
+    background-color: antiquewhite;
+}
+.header h5{
+    font-weight: bold;
+    font-family: Verdana;
+    font-size: 28px;
+}
+
+.upper-button{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    padding: 30px;
+
+}
+.upper-button .left-button{
+    width: 50%;
+    height: 100%;
+    padding: 10px;
+}
+
+.upper-button .left-button button{
+    border: none;
+    outline: none;
+    background: blue;
+    padding: 13px;
+    font-size: 23px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.upper-button .right-button{
+    width: 50%;
+    height: 100%;
+    padding: 10px;
+}
+
+.upper-button .right-button i{
+    font-size: 30px;
+    color: blue;
+}
+
+.upper-button .right-button input{
+    width: 55%;
+    padding: 13px;
+    border: none;
+    outline: none;
+    border-bottom: 3px solid blue;
+}
+.upper-button .right-button button{
+    border: none;
+    outline: none;
+    font-size: 23px;
+    padding: 13px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 5cm;
+}
+
+
+
